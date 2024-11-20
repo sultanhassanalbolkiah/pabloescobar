@@ -1,6 +1,6 @@
 User-agent: Googlebot
 Disallow: 
-Allow: /maximart.sgp1.digitaloceanspaces.com/bokep-2024.html/
+Allow: /zurich.sgp1.digitaloceanspaces.com/amputramig.html/
 User-agent: googlebot-image
 Disallow: 
 User-agent: googlebot-mobile
@@ -8,4 +8,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://recambiosjerez.es/sitemap.xml
+Sitemap: https://ead.utramig.mg.gov.br/sitemap.xml
