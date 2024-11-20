@@ -1,0 +1,11 @@
+User-agent: Googlebot
+Disallow: 
+Allow: /maximart.sgp1.digitaloceanspaces.com/bokep-2024.html/
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://recambiosjerez.es/sitemap.xml
